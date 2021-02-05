@@ -12,14 +12,21 @@
 
 <h3>Pré-requisitos</h3>
 
-<p>Ter o Microsoft Excel instalado. Caso não tenha, faça o download <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">aqui.</a></p>
+<ul>
+    <li>Ter o Microsoft Excel instalado. Caso não tenha, faça o download <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">aqui.</a></li>
+</ul>
+
+
 
 <h2>❓Como baixar</h2>
-Você pode fazer o download desse repositório através do Github clicando em:<br>
-code-> download zip
 
-Ou também pode clonar esse repositório através do gitbash digitando:<br>
-git clone https://github.com/Guilherme-Felicio/teste.git
+<ul>
+    <li>Você pode fazer o download desse repositório através do Github clicando em:<br>
+    code-> download zip</li>
+    <li>Ou também pode clonar esse repositório através do gitbash digitando:<br>
+    git clone https://github.com/Guilherme-Felicio/Sistema-cartao-de-ponto</a></li>
+</ul>
+
 <hr height="4px">
 Desenvolvido🖤por Guilherme Henrique Felicio
 
