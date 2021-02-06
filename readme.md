@@ -10,14 +10,16 @@
 💻Feito totalmente em Excel.<br>
 👷Ainda em Construção🚧
 
-<h3>⚠🚧Status do sistema</h3>
-👷Ainda em Construção
 
-<h3>⚠️Pré-requisitos</h3>
-
+<h2>⚠️Pré-requisitos</h2>
 <ul>
     <li>Ter o Microsoft Excel instalado. Caso não tenha, faça o download <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">aqui.</a></li>
 </ul>
+
+<h2>⚠🚧Status do sistema</h2>
+👷Ainda em Construção
+
+
 
 
 
