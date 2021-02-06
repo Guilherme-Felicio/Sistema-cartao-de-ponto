@@ -10,7 +10,7 @@
 💻Feito totalmente em Excel.<br>
 👷Ainda em Construção🚧
 
-<h3>Pré-requisitos</h3>
+<h3>⚠️Pré-requisitos</h3>
 
 <ul>
     <li>Ter o Microsoft Excel instalado. Caso não tenha, faça o download <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">aqui.</a></li>
