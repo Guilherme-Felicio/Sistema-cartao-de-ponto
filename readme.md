@@ -10,6 +10,9 @@
 💻Feito totalmente em Excel.<br>
 👷Ainda em Construção🚧
 
+<h3>⚠🚧Status do sistema</h3>
+👷Ainda em Construção
+
 <h3>⚠️Pré-requisitos</h3>
 
 <ul>
